@@ -1,4 +1,4 @@
-bb
+cc
 a
 aba
 c
